@@ -186,7 +186,6 @@ kinectTrack 0.376887 0.345627 Fri Mar 31 12:44:05 2017
 kinectTrack 0.378673 0.347592 Fri Mar 31 12:44:05 2017
 kinectTrack 0.379989 0.349569 Fri Mar 31 12:44:05 2017
 kinectTrackOFF Fri Mar 31 12:44:05 2017
- 
 NewSESSION Fri Mar 31 12:54:28 2017
 kinectTrackON Fri Mar 31 12:54:28 2017
 kinectTrack 0.44226 0.351012 Fri Mar 31 12:54:35 2017
@@ -26104,4 +26103,3 @@ kinectTrack 0.469468 0.320064 Thu Apr  6 16:20:47 2017
 kinectTrack 0.470172 0.319798 Thu Apr  6 16:20:47 2017
 kinectTrack 0.470803 0.319644 Thu Apr  6 16:20:47 2017
 NewSESSION Fri Apr  7 14:25:33 2017
- 
