@@ -1,0 +1,2015 @@
+NewSESSION Mon Apr 24 10:43:58 2017
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 22 64
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 22 68
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 22 68
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 22 69
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 22 69
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 21 70
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 20 70
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 17 71
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 14 72
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 12 72
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 9 72
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 2 72
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 1 71
+positionChanged Mon Apr 24 10:43:58 2017
+pos: 0 71
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -5 69
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -8 68
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -10 66
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -12 65
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -14 64
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -15 63
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -18 61
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -19 60
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -20 59
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -21 58
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -21 58
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -22 58
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -23 56
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -24 55
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -25 55
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -26 54
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -26 54
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -26 54
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -27 53
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -27 52
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -28 52
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -28 52
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -28 51
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -28 51
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -29 51
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -29 50
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -29 50
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -30 49
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -30 49
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -30 49
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -31 48
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -31 48
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -31 48
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -32 48
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -32 47
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -32 47
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -33 47
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -33 46
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -33 46
+positionChanged Mon Apr 24 10:43:58 2017
+pos: -34 46
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -34 46
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -35 46
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -35 46
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -35 46
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -35 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -36 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -36 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -36 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -37 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -37 45
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -37 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:43:59 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -38 44
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 44
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -39 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 43
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 42
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 42
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 42
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 42
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 42
+positionChanged Mon Apr 24 10:44:00 2017
+pos: -40 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 41
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -41 40
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -42 40
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -42 40
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -42 40
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -42 40
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -43 39
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -43 39
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -43 39
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -43 38
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -44 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -45 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -45 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -45 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -45 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -46 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -46 37
+positionChanged Mon Apr 24 10:44:01 2017
+pos: -46 37
+positionChanged Mon Apr 24 10:44:02 2017
+pos: -46 37
+positionChanged Mon Apr 24 10:44:02 2017
+pos: -46 37
+positionChanged Mon Apr 24 10:44:02 2017
+pos: -46 37
+light6 ON Mon Apr 24 10:44:06 2017
+light1 ON Mon Apr 24 10:44:06 2017
+light7 ON Mon Apr 24 10:44:06 2017
+light4 ON Mon Apr 24 10:44:06 2017
+light2 ON Mon Apr 24 10:44:08 2017
+light3 ON Mon Apr 24 10:44:08 2017
+light3 OFF Mon Apr 24 10:44:12 2017
+light2 OFF Mon Apr 24 10:44:13 2017
+light6 OFF Mon Apr 24 10:44:13 2017
+light7 OFF Mon Apr 24 10:44:14 2017
+light4 OFF Mon Apr 24 10:44:14 2017
+light1 OFF Mon Apr 24 10:44:15 2017
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -37 33
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -36 35
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -36 35
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -36 35
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -35 36
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -35 37
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -34 37
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -33 38
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -32 40
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -31 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -31 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -30 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -29 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -28 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 41
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 40
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -27 40
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -28 40
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -28 39
+positionChanged Mon Apr 24 10:44:16 2017
+pos: -29 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -29 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -29 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -30 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -31 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -32 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -32 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -32 39
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -33 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -33 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -33 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -34 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -34 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -35 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:17 2017
+pos: -36 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -37 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -38 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -38 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -38 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -39 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -39 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -39 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -39 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -39 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -40 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -40 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -40 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -41 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -41 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -41 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -42 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -43 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -43 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -43 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -43 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -44 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -45 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -45 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -45 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -46 38
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -46 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -46 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -47 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -47 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -47 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -47 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -47 39
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 40
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 40
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 40
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 40
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 41
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 41
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 41
+positionChanged Mon Apr 24 10:44:18 2017
+pos: -48 41
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 41
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 42
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 42
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 43
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 44
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 44
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -49 45
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 46
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 46
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 47
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 47
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 47
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -50 48
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -51 48
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -51 48
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -51 48
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -51 48
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -51 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 49
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 50
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 50
+positionChanged Mon Apr 24 10:44:19 2017
+pos: -52 50
+positionChanged Mon Apr 24 10:44:20 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:20 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:21 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:21 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:21 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:21 2017
+pos: -53 50
+positionChanged Mon Apr 24 10:44:21 2017
+pos: -53 50
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -53 51
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -53 51
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -53 51
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -53 50
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 50
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 50
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 49
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 49
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 47
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 46
+positionChanged Tue Apr 25 09:40:25 2017
+pos: -52 45
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 43
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 41
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 40
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 38
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 36
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 35
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 33
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 33
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 32
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 30
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 29
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 28
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 28
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 27
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 27
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 26
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 26
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 25
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 24
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 24
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 24
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 24
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 23
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 23
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 22
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 22
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 22
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 21
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 21
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -50 21
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 20
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 20
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 20
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 20
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 19
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -51 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 18
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 17
+positionChanged Tue Apr 25 09:40:26 2017
+pos: -52 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -52 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -52 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -53 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -54 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -54 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -54 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -55 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -56 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -57 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 14
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -58 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 15
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 16
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 17
+positionChanged Tue Apr 25 09:40:27 2017
+pos: -59 17
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 17
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 17
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 17
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 18
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 18
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 18
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 18
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 18
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 19
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 19
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -60 19
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 20
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 20
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 21
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 21
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 22
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 22
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 23
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 23
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 23
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 24
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 24
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 24
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 24
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -61 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 25
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -62 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -63 26
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -63 27
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -63 27
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -63 27
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -63 27
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -64 28
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -64 28
+positionChanged Tue Apr 25 09:40:28 2017
+pos: -64 28
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 29
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 30
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 30
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 30
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 30
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -65 31
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 31
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 32
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 32
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 33
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 33
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 34
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 34
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 35
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 35
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 35
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 35
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 36
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+positionChanged Tue Apr 25 09:40:29 2017
+pos: -66 37
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 2 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 7 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 10 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 12 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 15 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 17 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 22 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 25 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 30 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 33 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 35 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 38 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 40 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 43 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 45 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 48 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 51 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 53 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 56 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 58 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 63 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 66 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 68 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 71 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 73 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 76 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 79 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 81 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 86 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 89 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 91 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 94 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 96 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 99 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 102 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 104 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 107 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 109 48692
+intensityChanged Tue Apr 25 09:40:32 2017
+intensity: 112 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 114 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 117 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 119 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 122 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 124 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 127 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 130 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 132 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 135 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 137 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 140 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 142 48692
+intensityChanged Tue Apr 25 09:40:33 2017
+intensity: 145 48692
+intensityChanged Tue Apr 25 09:40:34 2017
+intensity: 147 48692
+intensityChanged Tue Apr 25 09:40:34 2017
+intensity: 150 48692
+light5 ON Tue Apr 25 09:40:34 2017
+light3 ON Tue Apr 25 09:40:35 2017
+light5 OFF Tue Apr 25 12:47:12 2017
+light3 OFF Tue Apr 25 12:47:12 2017
+light5 ON Tue Apr 25 12:47:14 2017
+light3 ON Tue Apr 25 12:47:14 2017
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 35
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 36
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 36
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 36
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 36
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 37
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 37
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 37
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 37
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 38
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 38
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 40
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 40
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 41
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 41
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 42
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -63 42
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 43
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 44
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 44
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 44
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 45
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 45
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -64 46
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 47
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 47
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 48
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 48
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 49
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 49
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 49
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 50
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -65 50
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 51
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 51
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 51
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 51
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 52
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 52
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 52
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 52
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 52
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 53
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 53
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 53
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:32 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -66 54
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 54
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 54
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 58
+positionChanged Tue Apr 25 12:47:33 2017
+pos: -67 58
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 55
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 58
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 58
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 58
+positionChanged Tue Apr 25 12:49:21 2017
+pos: -67 59
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -65 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -65 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -66 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -66 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -66 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -66 58
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -66 59
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -67 59
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -67 59
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -67 59
+positionChanged Tue Apr 25 12:49:23 2017
+pos: -67 59
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -64 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -65 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -65 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -65 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -66 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -66 55
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:24 2017
+pos: -67 56
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -65 56
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -65 56
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -65 56
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -66 56
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -66 57
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -67 57
+positionChanged Tue Apr 25 12:49:25 2017
+pos: -67 57
+positionChanged Wed Apr 26 10:03:21 2017
+pos: 152 31
+positionChanged Wed Apr 26 10:03:21 2017
+pos: 152 31
+positionChanged Wed Apr 26 10:03:21 2017
+pos: 152 31
+positionChanged Wed Apr 26 10:03:22 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:22 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:22 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:22 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:22 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 154 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 152 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 152 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 151 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 151 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 150 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 149 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 149 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 148 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 147 31
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 147 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 146 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 146 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 145 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 145 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 144 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 144 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 143 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 142 30
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 142 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 141 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 141 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 140 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 139 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 139 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 138 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 138 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 137 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 137 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 136 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 136 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 136 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 135 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 135 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 135 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 134 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 134 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 134 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 133 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 133 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 133 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 133 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 133 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:23 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 132 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 131 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 130 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 130 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 130 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 130 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 130 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 129 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 129 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 129 29
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 129 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 128 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 128 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 127 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 127 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 127 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 126 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 126 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 126 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 125 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 125 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 125 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 125 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 124 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 124 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 124 28
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 123 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 123 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 122 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 122 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 122 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 121 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 121 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 121 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 121 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 120 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 120 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 119 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 119 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 119 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 119 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 118 27
+positionChanged Wed Apr 26 10:03:24 2017
+pos: 118 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 118 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 118 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 117 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 117 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 117 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 116 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 116 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 116 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 116 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 115 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 27
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 114 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 113 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 112 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 111 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 111 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 110 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 110 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 110 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 110 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 109 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 109 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 108 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 108 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 108 28
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 107 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 106 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 106 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 106 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 105 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 105 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 105 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 104 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 104 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 104 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 104 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 103 29
+positionChanged Wed Apr 26 10:03:25 2017
+pos: 103 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 103 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 102 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 101 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 100 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 99 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 98 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 98 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 98 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 97 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 97 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 97 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 97 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 96 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 96 29
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 96 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:26 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 95 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 94 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 94 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 94 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 94 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 94 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 93 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 93 28
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 93 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 93 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 92 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 92 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 92 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 92 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 91 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 90 27
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 90 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 90 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 89 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 89 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 89 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 89 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 88 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 88 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 88 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 88 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 87 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 86 26
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 86 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 86 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 86 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 86 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:27 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 85 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 84 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+positionChanged Wed Apr 26 10:03:28 2017
+pos: 83 25
+light3 OFF Wed Apr 26 10:03:31 2017
+light7 ON Wed Apr 26 10:03:32 2017
+light6 ON Wed Apr 26 10:03:35 2017
+light1 ON Wed Apr 26 10:03:39 2017
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 80 23
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 79 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 78 24
+positionChanged Wed Apr 26 10:03:44 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 25
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 26
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 27
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:45 2017
+pos: 78 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 78 29
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 78 29
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 29
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 28
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 27
+positionChanged Wed Apr 26 10:03:46 2017
+pos: 77 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 77 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 77 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 77 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 76 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 75 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:47 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:48 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:48 2017
+pos: 74 27
+positionChanged Wed Apr 26 10:03:48 2017
+pos: 74 27
+positionChanged Wed Apr 26 12:32:31 2017
+pos: 9 29
+positionChanged Wed Apr 26 12:32:31 2017
+pos: 9 29
+positionChanged Wed Apr 26 12:32:31 2017
+pos: 9 29
+light6 OFF Wed Apr 26 14:18:50 2017
+light1 OFF Wed Apr 26 14:18:50 2017
+light7 OFF Wed Apr 26 14:18:51 2017
+light5 OFF Wed Apr 26 14:18:52 2017
+light5 ON Wed Apr 26 14:18:53 2017
+light1 ON Thu Apr 27 12:59:27 2017
+light6 ON Thu Apr 27 12:59:28 2017
+light7 ON Thu Apr 27 12:59:28 2017
+light4 ON Thu Apr 27 12:59:29 2017
+light4 OFF Thu Apr 27 12:59:29 2017
+light7 OFF Thu Apr 27 12:59:30 2017
+light6 OFF Thu Apr 27 12:59:30 2017
+light1 OFF Thu Apr 27 12:59:30 2017
+light3 ON Thu Apr 27 12:59:31 2017
+light3 OFF Thu Apr 27 12:59:32 2017
+light2 ON Thu Apr 27 12:59:32 2017
+light2 OFF Thu Apr 27 12:59:33 2017
+positionChanged Thu Apr 27 13:23:22 2017
+pos: -40 15
+positionChanged Thu Apr 27 13:23:22 2017
+pos: -56 44
+positionChanged Thu Apr 27 13:23:22 2017
+pos: -65 66
+positionChanged Thu Apr 27 13:23:22 2017
+pos: -67 68
+positionChanged Thu Apr 27 13:23:23 2017
+pos: -67 133
+ 
