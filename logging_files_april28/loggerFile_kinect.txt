@@ -2849,7 +2849,7 @@ kinectTrack 0.414146 0.419363 Mon Apr 24 10:32:09 2017
 kinectTrack 0.414385 0.4197 Mon Apr 24 10:32:09 2017
 kinectTrackOFF Mon Apr 24 10:32:09 2017
 lightsOFF Mon Apr 24 10:33:37 2017
-lightsONNewSESSION Wed Apr 26 10:03:50 2017
+NewSESSION Wed Apr 26 10:03:50 2017
 lightsON Wed Apr 26 10:03:50 2017
 lightsOFF Wed Apr 26 10:10:55 2017
 lightsON Wed Apr 26 11:17:09 2017
