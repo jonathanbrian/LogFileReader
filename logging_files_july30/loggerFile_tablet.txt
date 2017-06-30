@@ -1,0 +1,487 @@
+NewSESSION Fri Jun 16 14:42:30 2017
+positionChanged Fri Jun 16 14:42:30 2017
+pos: 47 57
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 25 85
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 37 80
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 39 79
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 43 78
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 46 76
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 49 75
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 53 75
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 56 74
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 61 73
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 72 69
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 77 68
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 82 66
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 89 62
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 92 60
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 96 56
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 99 53
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 102 50
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 103 49
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 109 42
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 111 38
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 112 34
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 112 30
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 111 27
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 108 23
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 102 20
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 97 18
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 94 18
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 85 19
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 83 19
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 80 20
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 77 21
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 75 22
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 72 22
+positionChanged Fri Jun 16 14:42:31 2017
+pos: 69 24
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 68 25
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 67 27
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 65 28
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 62 30
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 60 32
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 56 35
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 53 38
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 49 41
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 41 49
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 39 52
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 36 55
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 35 57
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 33 60
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 32 62
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 30 69
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 30 73
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 30 75
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 30 78
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 31 81
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 31 83
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 33 87
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 34 88
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 35 88
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 38 90
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 39 91
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 40 92
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 42 93
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 44 93
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 47 94
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 51 96
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 53 97
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 55 98
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 58 99
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 62 99
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 63 100
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 65 100
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 66 100
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 67 100
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 69 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 73 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 76 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 80 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 83 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 85 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 89 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 92 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 96 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 99 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 103 101
+positionChanged Fri Jun 16 14:42:32 2017
+pos: 107 100
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 112 99
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 115 98
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 120 96
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 128 94
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 134 91
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 138 89
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 141 87
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 146 85
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 150 83
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 156 80
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 159 78
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 161 76
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 163 75
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 164 73
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 166 72
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 168 68
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 170 66
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 171 64
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 174 60
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 175 58
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 176 55
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 176 55
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 177 53
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 177 51
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 178 46
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 178 44
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 178 42
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 178 41
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 178 39
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 177 38
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 176 34
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 176 33
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 175 32
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 173 30
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 172 29
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 171 27
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 170 26
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 169 26
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 168 25
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 166 23
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 166 22
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 165 22
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 164 21
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 163 21
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 163 21
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 162 19
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 161 19
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 161 19
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 160 19
+positionChanged Fri Jun 16 14:42:33 2017
+pos: 160 19
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 159 19
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 159 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 159 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+positionChanged Fri Jun 16 14:42:34 2017
+pos: 158 18
+light5 ON Fri Jun 16 14:42:36 2017
+light3 ON Fri Jun 16 14:42:36 2017
+light2 ON Fri Jun 16 14:42:37 2017
+light1 ON Fri Jun 16 14:42:37 2017
+light6 ON Fri Jun 16 14:42:37 2017
+light7 ON Fri Jun 16 14:42:38 2017
+light4 ON Fri Jun 16 14:42:38 2017
+light4 OFF Fri Jun 16 14:42:39 2017
+light7 OFF Fri Jun 16 14:42:39 2017
+light6 OFF Fri Jun 16 14:42:39 2017
+light1 OFF Fri Jun 16 14:42:39 2017
+light5 OFF Fri Jun 16 14:42:40 2017
+light2 OFF Fri Jun 16 14:42:40 2017
+light3 OFF Fri Jun 16 14:42:41 2017
+light5 ON Fri Jun 16 14:42:41 2017
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 2 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 5 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 7 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 10 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 12 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 15 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 17 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 20 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 22 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 25 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 30 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 33 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 35 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 38 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 40 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 43 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 45 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 48 53925
+intensityChanged Mon Jun 19 08:11:57 2017
+intensity: 51 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 53 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 56 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 58 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 61 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 63 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 66 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 68 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 71 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 73 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 76 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 79 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 81 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 84 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 86 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 91 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 94 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 96 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 102 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 104 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 107 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 109 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 112 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 117 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 119 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 124 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 127 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 130 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 132 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 135 53925
+intensityChanged Mon Jun 19 08:11:58 2017
+intensity: 137 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 140 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 142 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 145 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 147 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 150 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 155 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 158 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 160 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 163 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 168 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 173 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 175 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 181 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 183 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 186 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 188 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 191 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 193 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 196 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 198 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 201 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 204 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 206 53925
+intensityChanged Mon Jun 19 08:12:01 2017
+intensity: 209 53925
+positionChanged Mon Jun 19 08:12:02 2017
+pos: 27 80
+positionChanged Mon Jun 19 08:12:02 2017
+pos: 27 80
+positionChanged Mon Jun 19 08:12:02 2017
+pos: 27 80
+positionChanged Mon Jun 19 08:12:02 2017
+pos: 27 80
+light5 OFF Mon Jun 19 08:12:05 2017
+positionChanged Tue Jun 20 16:40:21 2017
+pos: 167 55
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 71 -11
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 70 -12
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 70 -12
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 70 -12
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 69 -13
+positionChanged Wed Jun 21 14:48:52 2017
+pos: 69 -13
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 69 -13
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 69 -13
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 70 -13
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 70 -12
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 71 -11
+positionChanged Wed Jun 21 14:48:53 2017
+pos: 71 -11
+NewSESSION Fri Jun 30 13:09:25 2017
+ 
