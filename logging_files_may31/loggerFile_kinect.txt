@@ -391,7 +391,7 @@ kinectTrack 0.442791 0.354159 Tue May 23 09:43:22 2017
 kinectTrack 0.444478 0.35343 Tue May 23 09:43:22 2017
 kinectTrack 0.446131 0.352759 Tue May 23 09:43:22 2017
 kinectTrack 0.448109 0.352095 Tue May 23 09:43:22 2017
-kinectTrack NewSESSION Tue May 23 10:12:45 2017
+NewSESSION Tue May 23 10:12:45 2017
 lightsON Tue May 23 10:12:45 2017
 lightsOFF Tue May 23 10:12:47 2017
 lightsON Tue May 23 12:36:47 2017
